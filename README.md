@@ -18,6 +18,7 @@ You can click the Preview link to take a look at your changes.
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 <!-- BLOG-POST-LIST:END -->
 
+### Martin's GitHub stats
 [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mparovski)](https://github.com/mparovski/github-readme-stats)
 
 ### Latest YouTube Videos
