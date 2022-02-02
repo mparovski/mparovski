@@ -1,9 +1,9 @@
 name: Lint Code Base
-on:
+on: push
   
 jobs:
-  super-lint: :
-    name: Lint Code Base
+  super-lint:
+    name: Lint code base
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
