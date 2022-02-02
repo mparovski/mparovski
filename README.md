@@ -20,6 +20,11 @@
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 <!-- BLOG-POST-LIST:END -->
 
+### Linter Status
+[![GitHub Super-Linter](https://github.com/mparovski/mparovski/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
+
+<br />
+
 ### Martin's GitHub stats
 [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mparovski)](https://github.com/mparovski/github-readme-stats)
 
